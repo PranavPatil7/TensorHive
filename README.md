@@ -1,11 +1,6 @@
 TensorHive
 ===
-![](https://img.shields.io/badge/release-v1.1.0-brightgreen.svg?style=popout-square)
-![](https://img.shields.io/badge/pypi-v1.1.0-brightgreen.svg?style=popout-square)
-![](https://img.shields.io/badge/Issues%20and%20PRs-welcome-yellow.svg?style=popout-square)
-![](https://img.shields.io/badge/platform-GNU/Linux-blue.svg?style=popout-square)
-![](https://img.shields.io/badge/python-3.5%20|%203.6%20|%203.7%20|%203.8-blue.svg?style=popout-square)
-![](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=popout-square)
+
 
 <img src="https://github.com/roscisz/TensorHive/raw/master/images/logo_small.png" height="130" align="left">
 
@@ -248,39 +243,4 @@ If you use TensorHive for a scientific publication, we would appreciate citation
 }
 ```
 
-Contribution and feedback
-------------------------
-We'd :heart: to collect your observations, issues and pull requests!
 
-Feel free to **report any configuration problems, we will help you**.
-
-Currently we are gathering practical infrastructure protection scenarios from our users to extract and further support the most common TensorHive deployments.
-
-If you consider becoming a contributor, please look at issues labeled as 
-[**good-first-issue**](https://github.com/roscisz/TensorHive/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-issue)
-and
-[**help wanted**](https://github.com/roscisz/TensorHive/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
-
-Credits
--------
-
-Project created and maintained by:
-- Paweł Rościszewski [(@roscisz)](https://github.com/roscisz)
-- ![](https://avatars2.githubusercontent.com/u/12485656?s=22&v=4) [Michał Martyniak (@micmarty)](https://micmarty.github.io)
-- Filip Schodowski [(@filschod)](https://github.com/filschod)
-
- Top contributors:
-- Jacek Szempliński [(@jszemplinski)](https://github.com/jszemplinski)
-- Mateusz Piotrowski [(@matpiotrowski)](https://github.com/matpiotrowski)
-- Martyna Oleszkiewicz [(@martyole)](https://github.com/martyole)
-- Tomasz Menet [(@tomenet)](https://github.com/tomenet)
-- Bartosz Jankowski [(@brtjank)](https://github.com/brtjank)
-
-TensorHive has been greatly supported within a joint project between [**VoiceLab.ai**](https://voicelab.ai) and
-[**Gdańsk University of Technology**](https://pg.edu.pl/) titled: "Exploration and selection of methods
-for parallelization of neural network training using multiple GPUs".
-
-
-License
--------
-[Apache License 2.0](https://github.com/roscisz/TensorHive/blob/master/LICENSE)
